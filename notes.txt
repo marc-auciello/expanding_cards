@@ -1,0 +1,1 @@
+pictures do a zoom in effect when a panel is selected.  This is probably because the image is too small or not sized properly
